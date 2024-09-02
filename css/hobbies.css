@@ -1,0 +1,11 @@
+body {
+    margin: 2rem;
+    background-color: darkgrey;
+    
+    
+}
+
+a.cover:hover {
+    color: goldenrod;
+    font-weight: bolder;
+  }
