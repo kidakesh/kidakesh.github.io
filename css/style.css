@@ -8,9 +8,9 @@ body {
 }
 
 h1 {
-    background-color: burlywood;
+    background-color: #18cf64;
     padding: 2rem;
-    flex-flow: row;
+    flex-wrap: nowrap;
     border-radius: 2em;
     text-align: center;
     font-style: italic;
