@@ -4,12 +4,13 @@ body {
     font-family: initial;
     background-image: url(../images/galaxy.jpg);
     margin: 9rem;
+    
 }
 
 h1 {
     background-color: burlywood;
     padding: 2rem;
-    flex-wrap: wrap;
+    flex-flow: row;
     border-radius: 2em;
     text-align: center;
     font-style: italic;
