@@ -41,6 +41,7 @@ legend {
 	  margin: 0 auto;
 	  padding: 1em;
 	  background-color: #18cf64;
+    background-size: contain;
   }
   
   section {
