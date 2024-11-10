@@ -9,11 +9,13 @@ body {
 h1 {
     background-color: burlywood;
     padding: 2rem;
+    border-radius: 2em;
     text-align: center;
     font-style: italic;
     font-size: 3rem;
     font-weight: bolder;
-    border: 5px dotted black
+    border: 5px groove rgb(91, 214, 112)
+    
 }
 
 h2 {
